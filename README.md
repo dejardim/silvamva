@@ -1,16 +1,25 @@
-### Hi there 👋
+# Heyo, world! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<!--
-**matheusdesjardins/matheusdesjardins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Student at @[Cesarschool](http://www.cesar.school)
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusDesjardins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-victor-desjardins-4459a71b4/)](https://www.linkedin.com/in/matheus-victor-desjardins-4459a71b4/) [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/8283cy8veymq9a6bsamr6fr68)](https://open.spotify.com/user/8283cy8veymq9a6bsamr6fr68) [![Twitter Badge](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/desjardins_)](https://twitter.com/desjardins_)
+
+
+
+Passionate with web & mobile development technologies.
+
+
+
+My name is [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like so much, so you can call me for "Desjardins" or "Matheus" :octocat: . Currently studying a lot fundamentals of programming , web technologies like HTM, CSS, JS and others technologies like Java and Kotlin, because I'm interested to learn Backend using Java and Javascript/Typescript with Node.js, Frontend using React, and also Mobile using Kotlin and React Native.
+
+
+
+Probably I'm a programmer oriented to create side projects all the time to validate concepts that I study or to test just dumb ideas.
+
+
+
+**Don’t hesitate to [contact](mailto:matheusdesjardins@gmail.com) me** if you think I can be of service **to you!** :slightly_smiling_face:
