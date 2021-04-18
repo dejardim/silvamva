@@ -14,7 +14,7 @@ Passionate with web & mobile development and some Python libraries.
 
 
 
-My name is [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like so much, so you can call me for "Desjardins" or "Matheus" :octocat: . Currently, I studying fundamentals of programming with Python, web technologies like HTML, CSS, JS and others technologies like Java and Kotlin, because I'm interested to learn Backend Development using Java and Mobile Development using Kotlin.
+My name is [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like so much, so you can call me for "Desjardins" too. Currently, I studying fundamentals of programming with Python, web technologies like HTML, CSS, JS and others technologies like Java and Kotlin, because I'm interested to learn Backend Development using Java and Mobile Development using Kotlin.  :octocat: 
 
 
 
