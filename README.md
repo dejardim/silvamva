@@ -10,16 +10,24 @@ Computer Science Student at @[Cesarschool](http://www.cesar.school)
 
 
 
-Passionate with web & mobile development and some Python libraries.
+Developer focused on programming and enthusiast about learning ways to help people's lives through technology.
+
+---
+
+I'm [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like a lot, so you can call me "Desjardins" as well. Currently, I have develop technical skills and learn about Frameworks, APIs, Web development, IT automation, basics of Systems Architecture, Git and Github.
 
 
+Also, in the free time I like to build side projects to validate concepts that I study or just to test my fun ideas.
 
-My name is [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like so much, so you can call me "Desjardins" as well. Currently I am studying the fundamentals of programming with Python, web technologies like HTML, CSS, JS and others technologies like Java and Kotlin, because I am interested in learning Backend Development using Java and Mobile Development using Kotlin.  :octocat: 
+<center>
+  <table>
+    <tr >
+        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusdesjardins&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></td>
+        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesjardins&layout=compact&langs_count=16&theme=ayu-mirage"/></td>
+    </tr>   
+  </table>
+</center> 
 
+---
 
-
-Right, I almost forgot probably I am a programmer oriented to create side projects all the time to validate concepts that I study or to test just dumb ideas.
-
-
-
-**Don’t hesitate to [contact me](mailto:matheusdesjardins@gmail.com)** if you think I can help you with some project! :slightly_smiling_face:
+If you think I can help you with some project, **Don’t hesitate to [contact me](mailto:matheusdesjardins@gmail.com)** ! :slightly_smiling_face:
