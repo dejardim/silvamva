@@ -2,7 +2,7 @@
 
 
 
-Computer Science Student at @[Cesarschool](http://www.cesar.school)
+Computer Science Student at @[CInUFPE](https://portal.cin.ufpe.br/)
 
 
 
@@ -10,11 +10,11 @@ Computer Science Student at @[Cesarschool](http://www.cesar.school)
 
 
 
-Developer focused on programming and enthusiast about learning ways to help people's lives through technology.
+Developer focused on solutions to solve interesting problems that are appealing to end-users.
 
 ---
 
-I'm [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like a lot, so you can call me "Desjardins" as well. Currently, I have develop technical skills and learn about Frameworks, APIs, Web development, IT automation, basics of Systems Architecture, Git and Github.
+I'm [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like a lot, so you can call me "Desjardins" as well. Currently, I deepen my knowledge in basic concepts of programming languages and OO. In addition, I learned about software patterns and quality to use in agile development projects
 
 
 Also, in the free time I like to build side projects to validate concepts that I study or just to test my fun ideas.
@@ -30,4 +30,4 @@ Also, in the free time I like to build side projects to validate concepts that I
 
 ---
 
-If you think I can help you with some project, **Don’t hesitate to [contact me](mailto:matheusdesjardins@gmail.com)** ! :slightly_smiling_face:
+If you think I can help you with some project, **Don’t hesitate to [contact me](mailto:matheus.vasilva@ufpe.br)** ! :slightly_smiling_face:
