@@ -14,7 +14,7 @@ Developer focused on solutions to solve interesting problems that are appealing 
 
 ---
 
-I'm [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like a lot, so you can call me "Desjardins" as well. Currently, I am deepen my knowledge in concepts of programming languages and OO. In addition, I'm learning about software patterns and quality to use in agile development projects
+I'm [Matheus Desjardins](https://www.instagram.com/matheusdesjardins), but "Desjardins" is a fictional surname that I like a lot, so you can call me "Desjardins" as well. Currently, I am deepening my knowledge in concepts of programming languages and OO. In addition, I'm learning about software patterns and quality to use in agile development projects
 
 
 Also, in the free time I like to build side projects to validate concepts that I study or just to test my fun ideas.
