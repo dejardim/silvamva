@@ -16,7 +16,6 @@ Developer focused on solutions to solve interesting problems that are appealing 
 
 🌱 Learning **Reactjs** <br>
 🌱 Learning **Machine Learning** <br>
-🌱 Learning **Devops AWS cloud** <br>
 
 I'm Matheus Silva and by day I'm a student at CIn-UFPE in the first period, by night I also study to pass the morning subjects hahahah. Here, I will share side projects to validate concepts I study, fork repos and modify them or just share out my fun ideas and submit PRs.
 
@@ -27,7 +26,6 @@ I'm Matheus Silva and by day I'm a student at CIn-UFPE in the first period, by n
 ![Opencv Badge](https://img.shields.io/badge/opencv-3670A0?style=for-the-badge&logo=opencv&logoColor=ffdd54)
 ![Javascript Badge](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 ![Reactjs Badge](https://img.shields.io/badge/reactjs-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
-![Reactnative Badge](https://img.shields.io/badge/react_native-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
 
 
 ---
