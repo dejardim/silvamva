@@ -14,17 +14,31 @@ Developer focused on solutions to solve interesting problems that are appealing 
 
 ---
 
-I'm Matheus Silva. By day I'm a student at CIn-UFPE on first period. By night, I study too... but in the free time I whatch Netflix, HBO Max (please HBO ajust the app) and Amazon Prime. Here I'll build side projects to validate concepts that I study or just to test my fun ideas.
+🌱 Learning **Reactjs** <br>
+🌱 Learning **Machine Learning** <br>
+🌱 Learning **Devops AWS cloud** <br>
 
-<center>
-  <table>
-    <tr >
-        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=silvamva&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/></td>
-        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvamva&layout=compact&langs_count=16&theme=ayu-mirage"/></td>
-    </tr>   
-  </table>
-</center> 
+I'm Matheus Silva and by day I'm a student at CIn-UFPE in the first period, by night I also study to pass the morning subjects hahahah. Here, I will share side projects to validate concepts I study, fork repos and modify them or just share out my fun ideas and submit PRs.
+
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI Badge](https://img.shields.io/badge/fastapi-3670A0?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
+![Pytorch Badge](https://img.shields.io/badge/pytorch-3670A0?style=for-the-badge&logo=pytorch&logoColor=ffdd54)
+![Scikitlearn Badge](https://img.shields.io/badge/scikit_learn-3670A0?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54)
+![Opencv Badge](https://img.shields.io/badge/opencv-3670A0?style=for-the-badge&logo=opencv&logoColor=ffdd54)
+![Javascript Badge](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![Reactjs Badge](https://img.shields.io/badge/reactjs-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+![Reactnative Badge](https://img.shields.io/badge/react_native-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+
 
 ---
 
-If you think I can help you with some project, **Don’t hesitate to [contact me](mailto:matheus.vasilva@ufpe.br)** ! :slightly_smiling_face:
+<table align="center" style="margin: 0px auto;">
+  <tr>
+      <td><img src ="https://github-readme-stats.vercel.app/api?username=silvamva&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"></td>
+      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=silvamva&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"></td>
+  </tr>   
+</table>
+
+---
+
+If you think I can help you with some project, don’t hesitate to [Contact Me](mailto:mvas2@cin.ufpe.br) ! :slightly_smiling_face:
