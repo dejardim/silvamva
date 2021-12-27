@@ -2,7 +2,7 @@
 
 
 
-Computer Science Student at [@CIn/UFPE](https://portal.cin.ufpe.br/)
+Computer Science Student at [@CIn-UFPE](https://portal.cin.ufpe.br/)
 
 
 
@@ -15,17 +15,17 @@ Developer focused on solutions to solve interesting problems that are appealing 
 ---
 
 🌱 Learning **Reactjs** <br>
-🌱 Learning **Machine Learning** <br>
+🌱 Learning **C/C++ and Java** <br>
 
 I'm Matheus Silva and by day I'm a student at CIn-UFPE in the first period, by night I also study to pass the morning subjects hahahah. Here, I will share side projects to validate concepts I study, fork repos and modify them or just share out my fun ideas and submit PRs.
 
-![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django Badge](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54)
-![Pytorch Badge](https://img.shields.io/badge/pytorch-3670A0?style=for-the-badge&logo=pytorch&logoColor=ffdd54)
-![Scikitlearn Badge](https://img.shields.io/badge/scikit_learn-3670A0?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54)
-![Opencv Badge](https://img.shields.io/badge/opencv-3670A0?style=for-the-badge&logo=opencv&logoColor=ffdd54)
-![Javascript Badge](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
-![Reactjs Badge](https://img.shields.io/badge/reactjs-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Reactjs Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ---
